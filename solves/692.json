@@ -1,0 +1,36 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 692, 
+      "time": 1512313838, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 692, 
+      "time": 1512314026, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 692, 
+      "time": 1512314060, 
+      "value": 2
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 692, 
+      "time": 1512314118, 
+      "value": 20
+    }
+  ]
+}

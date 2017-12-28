@@ -1,0 +1,116 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512329831, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512329846, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for IRC", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512330303, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512330483, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512330834, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 479, 
+      "time": 1512332433, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512332450, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512333153, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 479, 
+      "time": 1512334028, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512334036, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 479, 
+      "time": 1512334080, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 479, 
+      "time": 1512334141, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 479, 
+      "time": 1512334202, 
+      "value": 3
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Not Quite LSD", 
+      "chalid": null, 
+      "team": 479, 
+      "time": 1512334216, 
+      "value": 0
+    }
+  ]
+}

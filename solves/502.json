@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Woah!", 
+      "chalid": null, 
+      "team": 502, 
+      "time": 1512243119, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 502, 
+      "time": 1512244814, 
+      "value": 4
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 502, 
+      "time": 1512244870, 
+      "value": 0
+    }
+  ]
+}

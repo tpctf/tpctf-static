@@ -1,0 +1,84 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 722, 
+      "time": 1512328327, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 722, 
+      "time": 1512328415, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 722, 
+      "time": 1512328464, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 722, 
+      "time": 1512328629, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 722, 
+      "time": 1512328675, 
+      "value": 4
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 722, 
+      "time": 1512329849, 
+      "value": 20
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 722, 
+      "time": 1512331906, 
+      "value": 10
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 722, 
+      "time": 1512332475, 
+      "value": 5
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "768", 
+      "chalid": 9, 
+      "team": 722, 
+      "time": 1512337367, 
+      "value": 30
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 722, 
+      "time": 1512337867, 
+      "value": 50
+    }
+  ]
+}

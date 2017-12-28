@@ -1,0 +1,188 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 333, 
+      "time": 1512254781, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 333, 
+      "time": 1512255075, 
+      "value": 2
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512255077, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 333, 
+      "time": 1512255195, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 333, 
+      "time": 1512255565, 
+      "value": 3
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for trivial arithmetic", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512255596, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 333, 
+      "time": 1512255680, 
+      "value": 4
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 333, 
+      "time": 1512256362, 
+      "value": 10
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512263581, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512263809, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264070, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264459, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264651, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 333, 
+      "time": 1512264746, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264756, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264775, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264803, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264813, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Rick", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512264897, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Sorta", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512265095, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Not Quite LSD", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512270006, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512327684, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Woah!", 
+      "chalid": null, 
+      "team": 333, 
+      "time": 1512347928, 
+      "value": 0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "solves": [
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 748, 
+      "time": 1512355245, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 748, 
+      "time": 1512355569, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "768", 
+      "chalid": 9, 
+      "team": 748, 
+      "time": 1512355767, 
+      "value": 30
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 748, 
+      "time": 1512355791, 
+      "value": 0
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 748, 
+      "time": 1512356342, 
+      "value": 10
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Lost Flag", 
+      "chalid": null, 
+      "team": 748, 
+      "time": 1512356508, 
+      "value": 0
+    }
+  ]
+}

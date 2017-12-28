@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 514, 
+      "time": 1512241248, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 514, 
+      "time": 1512241619, 
+      "value": 0
+    }
+  ]
+}

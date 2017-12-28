@@ -1,0 +1,204 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 730, 
+      "time": 1512333204, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 730, 
+      "time": 1512333263, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 730, 
+      "time": 1512333349, 
+      "value": 2
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Not Quite LSD", 
+      "chalid": 3, 
+      "team": 730, 
+      "time": 1512333740, 
+      "value": 30
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 730, 
+      "time": 1512334066, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 730, 
+      "time": 1512334268, 
+      "value": 4
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512334485, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 730, 
+      "time": 1512335189, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512341161, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512341190, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Word Find", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512341285, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Sorta", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512341309, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Twirl", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512341971, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512342475, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512342895, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for IRC", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512342976, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512343117, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Rick", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512343131, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Not Quite LSD", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512343378, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512344576, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Woah!", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512345712, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 730, 
+      "time": 1512349342, 
+      "value": 50
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512349560, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 730, 
+      "time": 1512349594, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 730, 
+      "time": 1512350180, 
+      "value": 20
+    }
+  ]
+}

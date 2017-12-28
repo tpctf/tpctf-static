@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 667, 
+      "time": 1512311497, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 667, 
+      "time": 1512312775, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 667, 
+      "time": 1512313954, 
+      "value": 0
+    }
+  ]
+}

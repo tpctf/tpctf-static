@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 507, 
+      "time": 1512240708, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for trivial arithmetic", 
+      "chalid": null, 
+      "team": 507, 
+      "time": 1512241101, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 507, 
+      "time": 1512241184, 
+      "value": 0
+    }
+  ]
+}

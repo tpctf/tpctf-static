@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 718, 
+      "time": 1512326287, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 718, 
+      "time": 1512326710, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 718, 
+      "time": 1512327024, 
+      "value": 0
+    }
+  ]
+}

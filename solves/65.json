@@ -1,0 +1,68 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 65, 
+      "time": 1512312687, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 65, 
+      "time": 1512312873, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 65, 
+      "time": 1512312886, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 65, 
+      "time": 1512313285, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 65, 
+      "time": 1512313293, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 65, 
+      "time": 1512316863, 
+      "value": 50
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 65, 
+      "time": 1512318652, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 65, 
+      "time": 1512350209, 
+      "value": 0
+    }
+  ]
+}

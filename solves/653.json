@@ -1,0 +1,68 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Methods", 
+      "chalid": 20, 
+      "team": 653, 
+      "time": 1512301039, 
+      "value": 50
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 653, 
+      "time": 1512301111, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 653, 
+      "time": 1512301254, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 653, 
+      "time": 1512302074, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 653, 
+      "time": 1512302532, 
+      "value": 3
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Management", 
+      "chalid": 29, 
+      "team": 653, 
+      "time": 1512308292, 
+      "value": 60
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 653, 
+      "time": 1512309548, 
+      "value": 5
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 653, 
+      "time": 1512313778, 
+      "value": 20
+    }
+  ]
+}

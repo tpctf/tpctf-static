@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 623, 
+      "time": 1512286260, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 623, 
+      "time": 1512286271, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 623, 
+      "time": 1512286297, 
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 728, 
+      "time": 1512332593, 
+      "value": 0
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 728, 
+      "time": 1512333191, 
+      "value": 10
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 728, 
+      "time": 1512333941, 
+      "value": 5
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 728, 
+      "time": 1512333995, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 728, 
+      "time": 1512334054, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 728, 
+      "time": 1512334106, 
+      "value": 2
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for trivial arithmetic", 
+      "chalid": null, 
+      "team": 728, 
+      "time": 1512334249, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 728, 
+      "time": 1512334323, 
+      "value": 4
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 728, 
+      "time": 1512334368, 
+      "value": 3
+    }
+  ]
+}

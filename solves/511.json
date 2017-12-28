@@ -1,0 +1,76 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512242209, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 511, 
+      "time": 1512242900, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512242909, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512282499, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Methods", 
+      "chalid": 20, 
+      "team": 511, 
+      "time": 1512282659, 
+      "value": 50
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512282846, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512284672, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Not Quite LSD", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512285479, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 511, 
+      "time": 1512285977, 
+      "value": 0
+    }
+  ]
+}

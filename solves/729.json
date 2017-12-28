@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 729, 
+      "time": 1512333315, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 729, 
+      "time": 1512333611, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 729, 
+      "time": 1512333716, 
+      "value": 0
+    }
+  ]
+}

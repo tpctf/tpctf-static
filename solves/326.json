@@ -1,0 +1,276 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512236594, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 326, 
+      "time": 1512236778, 
+      "value": 20
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 326, 
+      "time": 1512237591, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512237598, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 326, 
+      "time": 1512237626, 
+      "value": 2
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512238826, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 326, 
+      "time": 1512238913, 
+      "value": 5
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 326, 
+      "time": 1512240109, 
+      "value": 2
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512241477, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Not Quite LSD", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512241696, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Strange Message", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512241931, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for trivial arithmetic", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512241980, 
+      "value": 0
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Not Quite LSD", 
+      "chalid": 3, 
+      "team": 326, 
+      "time": 1512242022, 
+      "value": 30
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Strange Message", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512242056, 
+      "value": 0
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 326, 
+      "time": 1512242103, 
+      "value": 10
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512242968, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512242972, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 326, 
+      "time": 1512243158, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 326, 
+      "time": 1512243190, 
+      "value": 4
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Woah!", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512243355, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Twirl", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512244549, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512255309, 
+      "value": 0
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "Not Lisp", 
+      "chalid": 36, 
+      "team": 326, 
+      "time": 1512256217, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512257644, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512257882, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "768", 
+      "chalid": 9, 
+      "team": 326, 
+      "time": 1512260630, 
+      "value": 30
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Encryption", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512260754, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rsa", 
+      "chalid": 32, 
+      "team": 326, 
+      "time": 1512269591, 
+      "value": 3
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Twirl", 
+      "chalid": 28, 
+      "team": 326, 
+      "time": 1512272444, 
+      "value": 35
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512329830, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512330109, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Lost Flag", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512330153, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for IRC", 
+      "chalid": null, 
+      "team": 326, 
+      "time": 1512330424, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 326, 
+      "time": 1512330503, 
+      "value": 50
+    }
+  ]
+}

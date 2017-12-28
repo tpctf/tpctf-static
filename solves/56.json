@@ -1,0 +1,44 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 56, 
+      "time": 1512234444, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 56, 
+      "time": 1512234697, 
+      "value": 5
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 56, 
+      "time": 1512234810, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 56, 
+      "time": 1512239405, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 56, 
+      "time": 1512239411, 
+      "value": 0
+    }
+  ]
+}

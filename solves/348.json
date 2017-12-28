@@ -1,0 +1,180 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 348, 
+      "time": 1512234099, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512235597, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512235878, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 348, 
+      "time": 1512236171, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 348, 
+      "time": 1512236225, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 348, 
+      "time": 1512236245, 
+      "value": 2
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for trivial arithmetic", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512236281, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Twirl", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512236369, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512236382, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512236452, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for IRC", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512236684, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512237091, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Strange Message", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512237292, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Strange Message", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512237296, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Woah!", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512237503, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 348, 
+      "time": 1512239886, 
+      "value": 5
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 348, 
+      "time": 1512241943, 
+      "value": 4
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512245500, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Rick", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512253161, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512253337, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 348, 
+      "time": 1512253427, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Encryption", 
+      "chalid": null, 
+      "team": 348, 
+      "time": 1512253541, 
+      "value": 0
+    }
+  ]
+}

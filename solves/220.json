@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 220, 
+      "time": 1512330515, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 220, 
+      "time": 1512330535, 
+      "value": 0
+    }
+  ]
+}

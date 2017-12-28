@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 709, 
+      "time": 1512322203, 
+      "value": 5
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 709, 
+      "time": 1512322254, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 709, 
+      "time": 1512322877, 
+      "value": 0
+    }
+  ]
+}

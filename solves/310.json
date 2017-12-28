@@ -1,0 +1,292 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Twirl", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512239916, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 310, 
+      "time": 1512240074, 
+      "value": 1
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Zalgo", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512240081, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 310, 
+      "time": 1512240354, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 310, 
+      "time": 1512240425, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 310, 
+      "time": 1512240500, 
+      "value": 4
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512241019, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Secret Doc", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512241025, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Rick", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512241122, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512246576, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 310, 
+      "time": 1512246901, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for You are nothing", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512246925, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512247251, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512247428, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 310, 
+      "time": 1512247671, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512247686, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for What is this place?", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512247824, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Woah!", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512248275, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Not Quite LSD", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512249569, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Strange Message", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512249765, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rsa", 
+      "chalid": 32, 
+      "team": 310, 
+      "time": 1512324205, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 310, 
+      "time": 1512324306, 
+      "value": 3
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Not Quite LSD", 
+      "chalid": 3, 
+      "team": 310, 
+      "time": 1512324455, 
+      "value": 30
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 310, 
+      "time": 1512324570, 
+      "value": 10
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "Not Lisp", 
+      "chalid": 36, 
+      "team": 310, 
+      "time": 1512325937, 
+      "value": 20
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 310, 
+      "time": 1512327813, 
+      "value": 50
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512328728, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Management", 
+      "chalid": 29, 
+      "team": 310, 
+      "time": 1512332235, 
+      "value": 60
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "768", 
+      "chalid": 9, 
+      "team": 310, 
+      "time": 1512333525, 
+      "value": 30
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512335910, 
+      "value": 0
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Twirl", 
+      "chalid": 28, 
+      "team": 310, 
+      "time": 1512344165, 
+      "value": 35
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Methods", 
+      "chalid": 20, 
+      "team": 310, 
+      "time": 1512344316, 
+      "value": 50
+    }, 
+    {
+      "category": "Web", 
+      "chal": "It's Common Sense", 
+      "chalid": 35, 
+      "team": 310, 
+      "time": 1512345933, 
+      "value": 100
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "Super Encryption!", 
+      "chalid": 17, 
+      "team": 310, 
+      "time": 1512347932, 
+      "value": 60
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Encryption", 
+      "chalid": null, 
+      "team": 310, 
+      "time": 1512348420, 
+      "value": 0
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "Bad Encryption", 
+      "chalid": 16, 
+      "team": 310, 
+      "time": 1512351189, 
+      "value": 100
+    }
+  ]
+}

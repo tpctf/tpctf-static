@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 659, 
+      "time": 1512301637, 
+      "value": 1
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 659, 
+      "time": 1512303521, 
+      "value": 5
+    }
+  ]
+}

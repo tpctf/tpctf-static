@@ -1,0 +1,100 @@
+{
+  "solves": [
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 335, 
+      "time": 1512269897, 
+      "value": 5
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "Super Encryption!", 
+      "chalid": 17, 
+      "team": 335, 
+      "time": 1512288496, 
+      "value": 60
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "Bad Encryption", 
+      "chalid": 16, 
+      "team": 335, 
+      "time": 1512306288, 
+      "value": 100
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 335, 
+      "time": 1512307101, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 335, 
+      "time": 1512307366, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 335, 
+      "time": 1512309298, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 335, 
+      "time": 1512309353, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 335, 
+      "time": 1512309387, 
+      "value": 4
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Ads", 
+      "chalid": null, 
+      "team": 335, 
+      "time": 1512311464, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 335, 
+      "time": 1512311599, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for IRC", 
+      "chalid": null, 
+      "team": 335, 
+      "time": 1512311849, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Management", 
+      "chalid": null, 
+      "team": 335, 
+      "time": 1512352545, 
+      "value": 0
+    }
+  ]
+}

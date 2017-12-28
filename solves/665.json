@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 665, 
+      "time": 1512303212, 
+      "value": 5
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 665, 
+      "time": 1512303218, 
+      "value": 0
+    }
+  ]
+}

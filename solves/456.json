@@ -1,0 +1,132 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 456, 
+      "time": 1512234028, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 456, 
+      "time": 1512234475, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 456, 
+      "time": 1512234498, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rsa", 
+      "chalid": 32, 
+      "team": 456, 
+      "time": 1512234552, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 456, 
+      "time": 1512234563, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 456, 
+      "time": 1512234579, 
+      "value": 4
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 456, 
+      "time": 1512234720, 
+      "value": 5
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Not Quite LSD", 
+      "chalid": 3, 
+      "team": 456, 
+      "time": 1512234814, 
+      "value": 30
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "768", 
+      "chalid": 9, 
+      "team": 456, 
+      "time": 1512234903, 
+      "value": 30
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 456, 
+      "time": 1512234992, 
+      "value": 20
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "Super Encryption!", 
+      "chalid": 17, 
+      "team": 456, 
+      "time": 1512235425, 
+      "value": 60
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 456, 
+      "time": 1512235812, 
+      "value": 10
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "Bad Encryption", 
+      "chalid": 16, 
+      "team": 456, 
+      "time": 1512237596, 
+      "value": 100
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 456, 
+      "time": 1512237648, 
+      "value": 50
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Management", 
+      "chalid": 29, 
+      "team": 456, 
+      "time": 1512237950, 
+      "value": 60
+    }, 
+    {
+      "category": "Forensics", 
+      "chal": "Demo File", 
+      "chalid": 1, 
+      "team": 456, 
+      "time": 1512241072, 
+      "value": 90
+    }
+  ]
+}

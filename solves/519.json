@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Encryption", 
+      "chalid": null, 
+      "team": 519, 
+      "time": 1512242086, 
+      "value": 0
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 519, 
+      "time": 1512242346, 
+      "value": 2
+    }
+  ]
+}

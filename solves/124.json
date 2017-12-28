@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 124, 
+      "time": 1512274309, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 124, 
+      "time": 1512274333, 
+      "value": 2
+    }
+  ]
+}

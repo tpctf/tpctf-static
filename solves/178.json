@@ -1,0 +1,36 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 178, 
+      "time": 1512242495, 
+      "value": 1
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 178, 
+      "time": 1512244104, 
+      "value": 20
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 178, 
+      "time": 1512244628, 
+      "value": 5
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Not Quite LSD", 
+      "chalid": 3, 
+      "team": 178, 
+      "time": 1512245467, 
+      "value": 30
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.logo {
+	max-width: 750px;
+}
+.heading {
+	text-align: center;
+}
+#chat-window {
+	display:block;
+	margin:auto;
+}
+#ad:after {
+	content:"tpctf{thx_4_n0_adb1ock}";
+}

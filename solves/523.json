@@ -1,0 +1,92 @@
+{
+  "solves": [
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Sanity Check", 
+      "chalid": 12, 
+      "team": 523, 
+      "time": 1512242290, 
+      "value": 1
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "Zalgo", 
+      "chalid": 13, 
+      "team": 523, 
+      "time": 1512242344, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial arithmetic", 
+      "chalid": 31, 
+      "team": 523, 
+      "time": 1512242412, 
+      "value": 4
+    }, 
+    {
+      "category": "Reverse Engineering", 
+      "chal": "I need better friends", 
+      "chalid": 30, 
+      "team": 523, 
+      "time": 1512257905, 
+      "value": 110
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 523, 
+      "time": 1512264686, 
+      "value": 20
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Bad Restaurant", 
+      "chalid": 8, 
+      "team": 523, 
+      "time": 1512264878, 
+      "value": 5
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "That's not latin...", 
+      "chalid": 14, 
+      "team": 523, 
+      "time": 1512264965, 
+      "value": 10
+    }, 
+    {
+      "category": "Misc", 
+      "chal": "Not Lisp", 
+      "chalid": 36, 
+      "team": 523, 
+      "time": 1512265193, 
+      "value": 20
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rev", 
+      "chalid": 34, 
+      "team": 523, 
+      "time": 1512266281, 
+      "value": 2
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial rsa", 
+      "chalid": 32, 
+      "team": 523, 
+      "time": 1512266442, 
+      "value": 3
+    }, 
+    {
+      "category": "Slightly More Trivial", 
+      "chal": "trivial stego", 
+      "chalid": 33, 
+      "team": 523, 
+      "time": 1512266489, 
+      "value": 3
+    }
+  ]
+}

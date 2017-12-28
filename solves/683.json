@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Methods", 
+      "chalid": 20, 
+      "team": 683, 
+      "time": 1512311747, 
+      "value": 50
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 683, 
+      "time": 1512316244, 
+      "value": 50
+    }
+  ]
+}

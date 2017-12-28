@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>TPCTF</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="shortcut icon" href="../themes/tpctf/static/img/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="../themes/tpctf/static/img/favicon.ico" type="image/x-icon">
+		<link rel="stylesheet" href="../themes/tpctf/static/css/vendor/bootstrap.min.css">
+		<link rel="stylesheet" href="../themes/tpctf/static/css/vendor/font-awesome/css/font-awesome.min.css" />
+		<link href='../themes/tpctf/static/css/vendor/lato.css' rel='stylesheet' type='text/css'>
+		<link href='../themes/tpctf/static/css/vendor/raleway.css' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="../themes/tpctf/static/css/style.css">
+		<link rel="stylesheet" type="text/css" href="../static/user.css">
+
+
+
+		<script src="../themes/tpctf/static/js/vendor/moment.min.js"></script>
+		<script src="../themes/original/static/js/vendor/handlebars.min.js"></script>
+		<script type="text/javascript">
+				var script_root = "";
+		</script>
+</head>
+<body>
+	<div class="body-container">
+		<div class="navbar navbar-inverse home">
+			<div class="container">
+				<div class="navbar-header">
+					<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a href="../index.html" class="navbar-brand">TPCTF</a>
+				</div>
+				<div class="navbar-collapse collapse" aria-expanded="false" style="height: 0px">
+					<ul class="nav navbar-nav">
+
+							<li><a href="../rules.html">Rules</a></li>
+
+							<li><a href="../chat.html">Chat</a></li>
+
+							<li><a href="../about.html">About</a></li>
+
+							<li><a href="../sponsors.html">Sponsors</a></li>
+
+						<li><a href="../teams.html">Teams</a></li>
+
+						<li><a href="../scoreboard.html">Scoreboard</a></li>
+
+						<li><a href="../challenges.html">Challenges</a></li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+
+
+						<li><a href="../login.html">Login</a></li>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+<div class="jumbotron home">
+	<div class="container">
+		<h1>Teams</h1>
+	</div>
+</div>
+<div class="container main-container">
+	<table id="teamsboard" class="table table-striped">
+		<thead>
+			<tr>
+				<td><b>Team</b></td>
+				<td><b>School</b></td>
+			</tr>
+		</thead>
+		<tbody>
+
+			<tr>
+				<td>
+
+					<a href="../team/3.html">Scrubsquad</a>
+
+				</td>
+				<td><span>MBHS</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/6.html">MBHS</a>
+
+				</td>
+				<td><span>MBHS</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/7.html">Cyber Ninjas</a>
+
+				</td>
+				<td><span>Poolesville HS</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/8.html">L Distribution</a>
+
+				</td>
+				<td><span>Poolesville High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/9.html">b2c</a>
+
+				</td>
+				<td><span>Montgomery Blair High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/10.html">AUDI NO META</a>
+
+				</td>
+				<td><span>Takoma Park Middle School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/11.html">Taliff&#39;s Ninja Hackers</a>
+
+				</td>
+				<td><span>Takoma Park Middle School, Winston Churchill High School, Robert Frost Middle School, Herbert Hoover Middle School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/12.html">warriorbax</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/13.html">H170rii</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/14.html">5 EXploiters</a>
+
+				</td>
+				<td><span>High Technology High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/15.html">VoidHack</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/16.html">Tres Amigos</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/17.html">cytel</a>
+
+				</td>
+				<td><span>SMK Telkom Bandung</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/18.html">cytelbdg</a>
+
+				</td>
+				<td><span>SMK Telkom Bandung</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/19.html">Meh</a>
+
+				</td>
+				<td><span>La Quinta High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/20.html">Chris Tong is going to HSF</a>
+
+				</td>
+				<td><span>MBHS</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/21.html">\x00rniths</a>
+
+				</td>
+				<td><span>High Technology High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/22.html">fs0ciety</a>
+
+				</td>
+				<td><span>Singapore Polytechnic</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/23.html">five spice red snapper provolone milk powder</a>
+
+				</td>
+				<td><span>Poolesville High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/24.html">poppop</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/25.html">N4ck</a>
+
+				</td>
+				<td><span>BUPT</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/26.html">stressmaniac</a>
+
+				</td>
+				<td><span>High Technology High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/27.html">P@Ge2mE</a>
+
+				</td>
+				<td><span>CPE</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/28.html">Muninn</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/29.html">revol ilol</a>
+
+				</td>
+				<td><span>backwards school</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/30.html">sfhacks</a>
+
+				</td>
+				<td><span>Saint Francis High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/31.html">libyanroot</a>
+
+				</td>
+				<td><span>noschool </span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/32.html">tianji</a>
+
+				</td>
+				<td><span>Harvard University;</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/33.html">bitterfly</a>
+
+				</td>
+				<td><span>none</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/34.html">popop</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/35.html">Genesyst</a>
+
+				</td>
+				<td><span>University of Lampung</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/36.html">GenesystID</a>
+
+				</td>
+				<td><span>University of Lampung</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/37.html">abc</a>
+
+				</td>
+				<td><span>qwe</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/38.html">HawkSquad</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/39.html">t1s</a>
+
+				</td>
+				<td><span>uit</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/40.html">uranium238</a>
+
+				</td>
+				<td><span>Valencia High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/41.html">recoil9</a>
+
+				</td>
+				<td><span>IIT Roorkee</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/42.html">Petir(A^3)</a>
+
+				</td>
+				<td><span>Binus University</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/43.html">PHSCRC</a>
+
+				</td>
+				<td><span>Princeton High School</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/44.html">Th3_C4valiers</a>
+
+				</td>
+				<td><span>USDB</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/45.html">TheBestPossibleUMassEver</a>
+
+				</td>
+				<td><span>University of Massachusetts Amherst</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/46.html">deuteriumoxide</a>
+
+				</td>
+				<td><span>Pennsbury</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/47.html">alibaba</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/48.html">GudGurl23</a>
+
+				</td>
+				<td><span>UW</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/49.html">reallyquiet</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/50.html">wayne</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/51.html">CTF.Ninja</a>
+
+				</td>
+				<td><span></span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/52.html">Team WE</a>
+
+				</td>
+				<td><span>Beijing University of Posts and Telecommunications</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/53.html">SoLY</a>
+
+				</td>
+				<td><span>NTUST</span></td>
+			</tr>
+
+			<tr>
+				<td>
+
+					<a href="../team/54.html">Hanabi</a>
+
+				</td>
+				<td><span>BUPT</span></td>
+			</tr>
+
+		</tbody>
+	</table>
+
+	<div class="text-center">Page
+		<br>
+
+
+
+				<b>1</b>
+
+
+
+				<a href="2.html">2</a>
+
+
+
+				<a href="3.html">3</a>
+
+
+
+				<a href="4.html">4</a>
+
+
+
+				<a href="5.html">5</a>
+
+
+
+				<a href="6.html">6</a>
+
+
+
+				<a href="7.html">7</a>
+
+
+
+				<a href="8.html">8</a>
+
+
+
+				<a href="9.html">9</a>
+
+
+
+				<a href="10.html">10</a>
+
+
+
+				<a href="11.html">11</a>
+
+
+
+				<a href="12.html">12</a>
+
+
+
+				<a href="13.html">13</a>
+
+
+
+				<a href="14.html">14</a>
+
+
+
+				<a href="15.html">15</a>
+
+
+
+				<a href="16.html">16</a>
+
+
+
+				<a href="17.html">17</a>
+
+
+		<a href="2.html">&gt;&gt;&gt;</a>
+	<a href="1.html">
+	</div>
+
+</div>
+
+
+		<div class="navbar navbar-bottom footer">
+				<p class="text-muted text-center"><a style="text-decoration:none;" href="https://ctfd.io"><sub>Powered by CTFd</sub></p>
+		</div>
+	</div>
+	<script src="../themes/tpctf/static/js/vendor/jquery.min.js"></script>
+	<script src="../themes/tpctf/static/js/vendor/marked.min.js"></script>
+	<script src="../themes/tpctf/static/js/vendor/bootstrap.min.js"></script>
+
+
+
+
+</body>
+</html>

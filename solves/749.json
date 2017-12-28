@@ -1,0 +1,28 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 749, 
+      "time": 1512358094, 
+      "value": 20
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Methods", 
+      "chalid": 20, 
+      "team": 749, 
+      "time": 1512358174, 
+      "value": 50
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 749, 
+      "time": 1512358725, 
+      "value": 50
+    }
+  ]
+}

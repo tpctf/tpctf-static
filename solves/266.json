@@ -1,0 +1,44 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Public key? What about <i>no</i> key?", 
+      "chalid": null, 
+      "team": 266, 
+      "time": 1512237776, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Lost Flag", 
+      "chalid": null, 
+      "team": 266, 
+      "time": 1512237844, 
+      "value": 0
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for 768", 
+      "chalid": null, 
+      "team": 266, 
+      "time": 1512237871, 
+      "value": 0
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "768", 
+      "chalid": 9, 
+      "team": 266, 
+      "time": 1512238061, 
+      "value": 30
+    }, 
+    {
+      "category": "Crypto", 
+      "chal": "Public key? What about <i>no</i> key?", 
+      "chalid": 10, 
+      "team": 266, 
+      "time": 1512243980, 
+      "value": 60
+    }
+  ]
+}

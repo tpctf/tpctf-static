@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 163, 
+      "time": 1512291329, 
+      "value": 20
+    }, 
+    {
+      "category": "Award", 
+      "chal": "Hint for Bad Restaurant", 
+      "chalid": null, 
+      "team": 163, 
+      "time": 1512293000, 
+      "value": 0
+    }
+  ]
+}

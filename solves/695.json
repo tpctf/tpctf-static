@@ -1,0 +1,20 @@
+{
+  "solves": [
+    {
+      "category": "Award", 
+      "chal": "Hint for Methods", 
+      "chalid": null, 
+      "team": 695, 
+      "time": 1512315162, 
+      "value": 0
+    }, 
+    {
+      "category": "Web", 
+      "chal": "It's Common Sense", 
+      "chalid": 35, 
+      "team": 695, 
+      "time": 1512316100, 
+      "value": 100
+    }
+  ]
+}

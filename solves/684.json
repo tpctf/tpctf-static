@@ -1,0 +1,36 @@
+{
+  "solves": [
+    {
+      "category": "Web", 
+      "chal": "Ads", 
+      "chalid": 24, 
+      "team": 684, 
+      "time": 1512311728, 
+      "value": 20
+    }, 
+    {
+      "category": "Web", 
+      "chal": "Methods", 
+      "chalid": 20, 
+      "team": 684, 
+      "time": 1512311831, 
+      "value": 50
+    }, 
+    {
+      "category": "Steganography", 
+      "chal": "Not Quite LSD", 
+      "chalid": 3, 
+      "team": 684, 
+      "time": 1512312936, 
+      "value": 30
+    }, 
+    {
+      "category": "Web", 
+      "chal": "IRC", 
+      "chalid": 23, 
+      "team": 684, 
+      "time": 1512319657, 
+      "value": 50
+    }
+  ]
+}
