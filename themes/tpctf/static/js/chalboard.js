@@ -204,7 +204,7 @@ function getsolves(id){
 function loadchals(cb) {
     $.get(script_root + "/chals.json", function (data) {
         var categories = [];
-        challenges = JSON.parse($.parseJSON(JSON.stringify(data)));
+        challenges = $.parseJSON(JSON.stringify(data));
 
         $('#challenges-board').html("");
 

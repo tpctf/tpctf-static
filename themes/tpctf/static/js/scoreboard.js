@@ -30,7 +30,7 @@ function UTCtoDate(utc){
 
 function scoregraph () {
     $.get(script_root + '/10.json', function( data ) {
-        var places = JSON.parse(JSON.parse(JSON.stringify(data)));
+        var places = JSON.parse(JSON.stringify(data));
         places = places['places'];
         if (Object.keys(places).length === 0 ){
             $('#score-graph').html('<div class="text-center"><h3 class="spinner-error">No solves yet</h3></div>'); // Replace spinner
